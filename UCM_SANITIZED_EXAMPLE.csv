@@ -1,0 +1,101 @@
+Cycle Time(Business days)|SANITIZEDCUSTOMERID|CaseTypeName|Market Segment|Products|CaseID|HED_CIFNumber|Work Completed|HED_OnboardingMilestone|HED_ServiceTag
+67|20093|Onboarding|CBTS - North|ACH on the Web|10610981|119551396|In Progress|Account Onboarded|Platinum
+147|61231|Maintenance|CBTS - South|Integrated Payables|11927403|161676909|In Progress|Legal Agreements and Document Execution|Platinum
+146|60628|Existing Account/New Product|RetailWealth - Business Banking|Stop Payment|11908102|161059268|In Progress|Product Setup|Silver
+74|23904|Existing Account/New Product|RetailWealth - Business Banking|Remote Deposit|13991793|203452851|In Progress|Product Setup|Silver
+130|93473|Existing Account/New Product|RetailWealth - Business Banking|Remote Deposit|13232901|123454212|In Progress|Product Setup|Silver
+119|52515|Maintenance|CBTS - South|Integrated Payables|10732944|194692382|In Progress|Legal Agreements and Document Execution|Platinum
+140|96939|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Sweep|12959136|152752083|In Progress|Unknown|Silver
+159|46840|Maintenance|CBTS - South|Lockbox online|11648502|198241870|In Progress|Legal Agreements and Document Execution|Silver
+58|57821|Onboarding|CBTS - North|ACH Direct Send/Vendor Send|13070058|146940887|In Progress|Account Onboarded|Platinum
+166|67435|Maintenance|CBTS - South|Integrated Payables|11466902|158185322|In Progress|Legal Agreements and Document Execution|Platinum
+61|15413|Onboarding|CBTS - North|Account Transfers|11818291|168030271|In Progress|Account Onboarded|Platinum
+50|70848|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Web Commercial Loans|12125945|207376928|In Progress|Unknown|Silver
+146|16900|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Wire on the Web/Wire File Import|13355529|114759933|In Progress|Unknown|Silver
+97|11505|Maintenance|CBTS - RETS|Image Cash Letter|10461247|171524817|In Progress|Engagement|Platinum
+42|97562|Onboarding|CBTS - RETS|IBB-Internet Business Banking|12235150|116282202|In Progress|Engagement|Platinum
+82|60761|Existing Account/New Product|RetailWealth - Business Banking|Stop Payment|10508818|110758048|In Progress|Product Setup|Silver
+115|35526|Onboarding|CBTS - RETS|Alerts and Notifications|10336189|198879714|In Progress|Engagement|Platinum
+88|7276|Onboarding|CBTS - North|ACH Prefund Direct Send/Vendor Send|13089991|161196020|In Progress|Account Onboarded|Platinum
+109|87352|Onboarding|CBTS - North|ACH Prefund Direct Send/Vendor Send|11912375|135355143|In Progress|Account Onboarded|Platinum
+82|85869|Maintenance|CBTS - RETS|Image Cash Letter|11104848|106427353|In Progress|Engagement|Platinum
+75|27802|Maintenance|RetailWealth - Business Banking|Positive Pay - Basic|10200854|188424784|In Progress|Product Setup|Silver
+66|44955|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Wire on the Web/Wire File Import|12763274|186906020|In Progress|Unknown|Silver
+78|31107|Onboarding|CBTS - RETS|Alerts and Notifications|13913127|127445578|In Progress|Engagement|Platinum
+118|41554|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Wire on the Web/Wire File Import|12715813|145010019|In Progress|Unknown|Silver
+124|27721|Maintenance|CBTS - South|Misc|13972333|130830512|In Progress|Legal Agreements and Document Execution|Silver
+134|24391|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Web Commercial Loans|10857674|141527760|In Progress|Unknown|Silver
+83|19459|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Sweep|11406563|212595841|In Progress|Unknown|Silver
+133|25719|Onboarding|CBTS - North|ACH on the Web|10963453|203081650|In Progress|Account Onboarded|Platinum
+148|46482|Maintenance|RetailWealth - Business Banking|Positive Pay - Payee|11297742|127362904|In Progress|Product Setup|Silver
+172|49504|Onboarding|CBTS - North|ACH Exchange|13518620|123952598|In Progress|Account Onboarded|Platinum
+100|83093|Onboarding|CBTS - North|Account Reconciliation/Deposit Reconciliation|13221301|118902054|In Progress|Account Onboarded|Platinum
+126|54699|Maintenance|CBTS - RETS|Image On Demand|10855090|125312780|In Progress|Engagement|Platinum
+71|28634|Existing Account/New Product|RetailWealth - Business Banking|Stop Payment|10748518|219836895|In Progress|Product Setup|Silver
+61|53830|Maintenance|CBTS - South|Misc|10590689|146574149|In Progress|Legal Agreements and Document Execution|Silver
+76|61438|Onboarding|CBTS - North|ACH Prefund Direct Send/Vendor Send|10791024|149668902|In Progress|Account Onboarded|Platinum
+31|73797|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Token Requested|13744902|184063467|In Progress|Unknown|Silver
+131|37146|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Web Commercial Loans|11455442|154988066|In Progress|Unknown|Silver
+67|50164|Onboarding|CBTS - RETS|Electronic Data Exchange(EDI)/Receipt Services|11552153|212054258|In Progress|Engagement|Platinum
+174|22026|Maintenance|CBTS - South|Integrated Payables|12626983|128297659|In Progress|Legal Agreements and Document Execution|Platinum
+71|86005|Maintenance|RetailWealth - Business Banking|Positive Pay - Payee|11718377|154098739|In Progress|Product Setup|Silver
+79|84683|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Web Commercial Loans|13501695|161888994|In Progress|Unknown|Silver
+72|17265|Onboarding|CBTS - North|ACH Exchange|10884301|174544481|In Progress|Account Onboarded|Platinum
+36|24677|Maintenance|CBTS - South|Misc|11690585|137014402|In Progress|Legal Agreements and Document Execution|Silver
+90|1739|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Wire Services(Direct Access)|11934031|206344212|In Progress|Unknown|Silver
+144|80005|Maintenance|RetailWealth - Business Banking|Positive Pay - Basic|12329515|209792543|In Progress|Product Setup|Silver
+129|52841|Existing Account/New Product|RetailWealth - Business Banking|Remote Deposit|11156700|150344937|In Progress|Product Setup|Silver
+62|20346|Existing Account/New Product|RetailWealth - Business Banking|Stop Payment|13779705|121531450|In Progress|Product Setup|Silver
+171|75207|Maintenance|CBTS - South|Lockbox online|13323256|214955250|In Progress|Legal Agreements and Document Execution|Silver
+43|22304|Onboarding|CBTS - RETS|Financial Center|13431016|187045955|In Progress|Engagement|Platinum
+93|26249|Maintenance|CBTS - South|Online Statement|11573279|185692122|In Progress|Legal Agreements and Document Execution|Silver
+159|22890|Maintenance|CBTS - South|Lockbox online|10672857|116655518|In Progress|Legal Agreements and Document Execution|Silver
+104|4425|Maintenance|CBTS - RETS|Image Cash Letter|13592351|124246086|In Progress|Engagement|Platinum
+116|88255|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Token Requested|12720186|100757670|In Progress|Unknown|Silver
+165|32093|Maintenance|CBTS - RETS|Image Cash Letter|12677878|180901367|In Progress|Engagement|Platinum
+117|59745|Maintenance|CBTS - South|Lockbox - Wholesale CA|10520484|153085283|In Progress|Legal Agreements and Document Execution|Platinum
+168|84597|Existing Account/New Product|RetailWealth - Business Banking|Returned Items on the web|10757690|119811139|In Progress|Product Setup|Silver
+122|51811|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Sweep|10023677|203817506|In Progress|Unknown|Silver
+153|17595|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Total Biller Solution|12528167|214286189|In Progress|Unknown|Silver
+132|82772|Maintenance|RetailWealth - Business Banking|Positive Pay - Payee|11658915|175988401|In Progress|Product Setup|Silver
+45|73607|Onboarding|CBTS - RETS|Electronic Data Exchange(EDI)/Receipt Services|10619098|121815774|In Progress|Engagement|Platinum
+55|7875|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Token Requested|13244297|125855791|In Progress|Unknown|Silver
+106|80835|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Web Commercial Loans|13571443|122416318|In Progress|Unknown|Silver
+141|33386|Existing Account/New Product|RetailWealth - Business Banking|Remote Deposit|12374637|212900559|In Progress|Product Setup|Silver
+94|95018|Existing Account/New Product|RetailWealth - Business Banking|Stop Payment|10681742|103507755|In Progress|Product Setup|Silver
+91|82111|Maintenance|CBTS - South|Lockbox online|10807993|189349525|In Progress|Legal Agreements and Document Execution|Silver
+141|67468|Maintenance|CBTS - South|Lockbox - Wholesale CA|10700509|131839808|In Progress|Legal Agreements and Document Execution|Platinum
+161|94577|Maintenance|CBTS - South|Online Statement|13528142|160155376|In Progress|Legal Agreements and Document Execution|Silver
+156|38991|Onboarding|CBTS - North|ACH on the Web|10109617|207294068|In Progress|Account Onboarded|Platinum
+179|91408|Existing Account/New Product|RetailWealth - Business Banking|Positive Pay -  Standard|13832657|185604040|In Progress|Product Setup|Silver
+95|78381|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Token Requested|12792172|152030933|In Progress|Unknown|Silver
+67|45396|Onboarding|CBTS - North|ACH on the Web|10994994|116994005|In Progress|Account Onboarded|Platinum
+44|70229|Existing Account/New Product|RetailWealth - Business Banking|Returned Items on the web|11879855|183734739|In Progress|Product Setup|Silver
+179|90366|Existing Account/New Product|RetailWealth - Business Banking|Remote Deposit|13352939|174350127|In Progress|Product Setup|Silver
+113|45992|Onboarding|CBTS - North|ACH Exchange|12675126|201584247|In Progress|Account Onboarded|Platinum
+72|72103|Onboarding|CBTS - North|Account Transfers|13868474|107040748|In Progress|Account Onboarded|Platinum
+43|48578|Maintenance|CBTS - South|Online Statement|13784700|181752049|In Progress|Legal Agreements and Document Execution|Silver
+100|64381|Onboarding|CBTS - RETS|Alerts and Notifications|11625966|133163971|In Progress|Engagement|Platinum
+60|53656|Onboarding|CBTS - RETS|IBB-Internet Business Banking|10531062|196274923|In Progress|Engagement|Platinum
+42|9119|Maintenance|RetailWealth - Business Banking|Positive Pay - Basic|12616710|183058687|In Progress|Product Setup|Silver
+86|14280|Maintenance|RetailWealth - Business Banking|Positive Pay - Payee|12323441|204012779|In Progress|Product Setup|Silver
+109|40308|Existing Account/New Product|RetailWealth - Business Banking|Returned Items on the web|13174507|168063559|In Progress|Product Setup|Silver
+164|86394|Maintenance|CBTS - South|Online Statement|10220023|195823850|In Progress|Legal Agreements and Document Execution|Silver
+85|57945|Maintenance|CBTS - RETS|Image Cash Letter|12554751|138903719|In Progress|Engagement|Platinum
+175|34099|Onboarding|CBTS - North|Account Reconciliation/Deposit Reconciliation|11036374|192578124|In Progress|Account Onboarded|Platinum
+121|32430|Onboarding|CBTS - North|ACH Exchange|13008591|179238733|In Progress|Account Onboarded|Platinum
+115|93654|Onboarding|CBTS - North|ACH Prefund Direct Send/Vendor Send|12595583|145461598|In Progress|Account Onboarded|Platinum
+146|94682|Maintenance|CBTS - South|Lockbox online|13250399|170891016|In Progress|Legal Agreements and Document Execution|Silver
+33|58334|Existing Account/New Product|RetailWealth - Business Banking|Remote Deposit|13894284|191511398|In Progress|Product Setup|Silver
+59|68315|Onboarding|CBTS - RETS|Alerts and Notifications|12126986|146072688|In Progress|Engagement|Platinum
+151|65681|Maintenance|CBTS - RETS|Image On Demand|12994495|172810494|In Progress|Engagement|Platinum
+79|77373|Existing Account/New Product|RetailWealth - Wealth Mgmt Private Banking|Wire on the Web/Wire File Import|11215741|214644978|In Progress|Unknown|Silver
+164|34319|Maintenance|CBTS - South|Information Reporting|12893066|148720881|In Progress|Legal Agreements and Document Execution|Platinum
+60|20292|Existing Account/New Product|RetailWealth - Business Banking|Remote Deposit|12476210|164902846|In Progress|Product Setup|Silver
+83|8630|Maintenance|RetailWealth - Business Banking|Positive Pay - Basic|11420674|153920123|In Progress|Product Setup|Silver
+41|89601|Maintenance|RetailWealth - Business Banking|Positive Pay - Payee|12215344|202207017|In Progress|Product Setup|Silver
+129|77723|Maintenance|CBTS - South|Lockbox - Wholesale CA|12859731|108313877|In Progress|Legal Agreements and Document Execution|Platinum
+56|43828|Maintenance|CBTS - South|Misc|11439771|209228869|In Progress|Legal Agreements and Document Execution|Silver
+132|22588|Existing Account/New Product|RetailWealth - Business Banking|Remote Deposit|12275327|113599285|In Progress|Product Setup|Silver
+68|8154|Onboarding|CBTS - North|ACH on the Web|13582655|219515109|In Progress|Account Onboarded|Platinum
+152|99812|Existing Account/New Product|RetailWealth - Business Banking|Stop Payment|13956698|140251841|In Progress|Product Setup|Silver

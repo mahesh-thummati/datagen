@@ -9,9 +9,10 @@ class Error(Exception):
 
 class FakeHelper:
     """This Class is used to generate fake data."""
-    def __init__(self, num_records=1000):
+    def __init__(self, num_records=1000,seed=1000):
         self.num_records = num_records
         self.faker = Faker()
+        self.seed = seed
     
     def _fake_address(self):
         return ADDRESS_FORMAT.match(repr(self.faker.address())).group
@@ -74,7 +75,7 @@ class FakeHelper:
     
     def fake_it(self, data_type, min_length=None, max_length=None,
         min_value=None, max_value=None, format=None, values=None):
-
+        Faker.seed(self.seed)
         return_list = list()
         status = True
         try:

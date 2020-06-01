@@ -1,0 +1,99 @@
+{
+    "name": "CBT_DP_STG.CIF_CUST",
+    "output_format": "csv",
+    "output_rec_cnt": 10000,
+    "source": "fake",
+    "seed": 100,
+    "output_file": "cif_cust.csv",
+    "fields": [
+        {
+            "name": "record_id",
+            "type": "int",
+            "min_value": 1000000000,
+            "max_value": 9999999999
+        },
+        {
+            "name": "period_dt",
+            "type": "date",
+            "min_value": "2019-01-01"
+        },
+        {
+            "name": "rfcrf_cif_no",
+            "type": "str",
+            "format": "Recno: %##########"
+        },
+        {
+            "name": "rcrf_inst",
+            "type": "str",
+            "min_length": 5,
+            "max_length": 5
+        },
+        {
+            "name": "rcrf_alpha",
+            "type": "str",
+            "min_length": 5,
+            "max_length": 10
+        },
+        {
+            "name": "rcrf_date_audt",
+            "type": "date",
+            "min_value": "2020-01-01"
+        },
+        {
+            "name": "rcrf_time_audt",
+            "type": "time"
+        },
+        {
+            "name": "rcrf_name",
+            "type": "name"
+        },
+        {
+            "name": "rcrf_st_addr",
+            "type": "street_address"
+        },
+        {
+            "name": "rcrf_city",
+            "type": "city"
+        },
+        {
+            "name": "rcrf_state",
+            "type": "state"
+        },
+        {
+            "name": "rcrf_zip5",
+            "type": "zip_code"
+        },
+        {
+            "name": "ubcrf_avf_flag",
+            "type": "boolean"
+        },
+        {
+            "name": "ubcrf_own_country",
+            "type": "country"
+        },
+        {
+            "name": "ubcrf_citizen",
+            "type": "boolean"
+        },
+        {
+            "name": "first_name",
+            "type": "first_name"
+        },
+        {
+            "name": "last_name",
+            "type": "last_name"
+        },
+        {
+            "name": "create_ts",
+            "type": "timestamp",
+            "min_value": "2020-03-01 00:00:00",
+            "max_value": "2020-03-31 00:00:00"
+        },
+        {
+            "name": "update_ts",
+            "type": "timestamp",
+            "min_value": "2019-04-01 00:00:00",
+            "max_value": "2020-04-30 00:00:00"
+        }
+    ]
+}

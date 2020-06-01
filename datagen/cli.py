@@ -14,7 +14,8 @@ from datagen import config_parser
 __author__ = 'mthummati'
 
 def generate_fake_df(schema_parsed):
-    faker = FakeHelper(schema_parsed.names.output_rec_cnt)
+    faker = FakeHelper(schema_parsed.names.output_rec_cnt, 
+        schema_parsed.names.seed)
     output_df = pd.DataFrame()
     for field in schema_parsed.fields:
         start_time = time.time() #degug
